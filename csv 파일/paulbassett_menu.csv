@@ -1,0 +1,110 @@
+﻿brand,name,temp,category,is_coffee
+폴바셋,코코넛 판단 카페 라떼,HOT,COFFEE,True
+폴바셋,아이스 코코넛 판단 카페 라떼,ICE,COFFEE,True
+폴바셋,I체리블라썸 카페라떼SCherry Blossom Cafe Latte,ICE,COFFEE,True
+폴바셋,H고창 땅콩 카페라떼SGochang Peanut Cafe Latte,HOT,COFFEE,True
+폴바셋,I고창 땅콩 카페라떼SIced Gochang Peanut Cafe Latte,ICE,COFFEE,True
+폴바셋,콜드브루 푸릇프룻,ICE,COFFEE,True
+폴바셋,콜드브루 라떼 푸릇프룻,ICE,COFFEE,True
+폴바셋,커피큐브,ICE,COFFEE,True
+폴바셋,아이스 룽고,ICE,COFFEE,True
+폴바셋,룽고,HOT,COFFEE,True
+폴바셋,아이스 아메리카노,ICE,COFFEE,True
+폴바셋,아메리카노,HOT,COFFEE,True
+폴바셋,리스트레토,HOT,COFFEE,True
+폴바셋,에스프레소,HOT,COFFEE,True
+폴바셋,에스프레소 마키아토,HOT,COFFEE,True
+폴바셋,초콜릿 에스프레소 콘 파나,HOT,COFFEE,True
+폴바셋,커피큐브,ICE,COFFEE,True
+폴바셋,커피큐브,ICE,COFFEE,True
+폴바셋,커피큐브,ICE,COFFEE,True
+폴바셋,제주말차 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 제주말차 카페라떼,ICE,COFFEE,True
+폴바셋,카페라떼,HOT,COFFEE,True
+폴바셋,아이스 카페라떼,ICE,COFFEE,True
+폴바셋,락토프리 카페 라떼,HOT,COFFEE,True
+폴바셋,아이스 락토프리 카페 라떼,ICE,COFFEE,True
+폴바셋,카페 오트,HOT,COFFEE,True
+폴바셋,아이스 카페 오트,ICE,COFFEE,True
+폴바셋,플랫 화이트,HOT,COFFEE,True
+폴바셋,아이스 플랫화이트,ICE,COFFEE,True
+폴바셋,바닐라빈 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 바닐라빈 카페라떼,ICE,COFFEE,True
+폴바셋,시나몬 카페 라떼,HOT,COFFEE,True
+폴바셋,스페니쉬 카페 라떼 [연유],HOT,COFFEE,True
+폴바셋,아이스 시나몬 카페 라떼,ICE,COFFEE,True
+폴바셋,아이스 스페니쉬 카페 라떼 [연유],ICE,COFFEE,True
+폴바셋,카라멜 마키아토,HOT,COFFEE,True
+폴바셋,아이스 카라멜 마키아토,ICE,COFFEE,True
+폴바셋,카페 모카,HOT,COFFEE,True
+폴바셋,아이스 카페 모카,ICE,COFFEE,True
+폴바셋,카푸치노,HOT,COFFEE,True
+폴바셋,VENTI 콜드브루Cold Brew (Venti),,COFFEE,True
+폴바셋,VENTI 콜드브루 라떼Cold Brew Latte (Venti),,COFFEE,True
+폴바셋,디카페인 아메리카노,HOT,COFFEE,True
+폴바셋,아이스 디카페인 아메리카노,ICE,COFFEE,True
+폴바셋,디카페인 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 디카페인 카페라떼,ICE,COFFEE,True
+폴바셋,디카페인 밀크 소프트 아포가토,,COFFEE,True
+폴바셋,디카페인 락토프리 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 디카페인 락토프리 카페라떼,ICE,COFFEE,True
+폴바셋,디카페인 카페오트,HOT,COFFEE,True
+폴바셋,아이스 디카페인 카페오트,ICE,COFFEE,True
+폴바셋,디카페인 카푸치노,HOT,COFFEE,True
+폴바셋,아이스 디카페인 아이스크림 카페라떼,ICE,COFFEE,True
+폴바셋,디카페인 시나몬 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 디카페인 시나몬 카페라떼,ICE,COFFEE,True
+폴바셋,디카페인 바닐라빈 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 디카페인 바닐라빈 카페라떼,ICE,COFFEE,True
+폴바셋,디카페인 스페니쉬 카페라떼,HOT,COFFEE,True
+폴바셋,아이스 디카페인 스페니쉬 카페라떼,ICE,COFFEE,True
+폴바셋,디카페인 카라멜 마키아토,HOT,COFFEE,True
+폴바셋,아이스 디카페인카라멜 마키아토,ICE,COFFEE,True
+폴바셋,디카페인 플랫화이트,HOT,COFFEE,True
+폴바셋,아이스 디카페인 플랫화이트,ICE,COFFEE,True
+폴바셋,체리블라썸 요거트 프라페,ICE,BEVERAGE,False
+폴바셋,I체리블라썸 말차라떼SCherry Blossom Matcha Latte,ICE,BEVERAGE,False
+폴바셋,H고창 고구마 라떼SGochang Sweet Potato Latte,HOT,BEVERAGE,False
+폴바셋,I고창 고구마 라떼SIced Gochang Sweet Potato Latte,ICE,BEVERAGE,False
+폴바셋,코코넛 말차 라떼,HOT,BEVERAGE,False
+폴바셋,아이스 코코넛 말차 라떼,ICE,BEVERAGE,False
+폴바셋,고창 복분자 에이드,ICE,BEVERAGE,False
+폴바셋,딥 초콜릿 라떼,HOT,BEVERAGE,False
+폴바셋,아이스 딥 초콜릿 라떼,ICE,BEVERAGE,False
+폴바셋,비타민,ICE,BEVERAGE,False
+폴바셋,커피칩 라떼 프라페,ICE,BEVERAGE,False
+폴바셋,카라멜 마키아토 프라페,ICE,BEVERAGE,False
+폴바셋,더블 초콜릿 프라페,ICE,BEVERAGE,False
+폴바셋,제주 말차 라떼 프라페,ICE,BEVERAGE,False
+폴바셋,망고 파인애플 프라페,ICE,BEVERAGE,False
+폴바셋,제주 말차 라떼,HOT,BEVERAGE,False
+폴바셋,아이스 제주 말차 라떼,ICE,BEVERAGE,False
+폴바셋,스팀 밀크,HOT,BEVERAGE,False
+폴바셋,아이스 밀크,ICE,BEVERAGE,False
+폴바셋,아이스 루이보스 밀크티,ICE,BEVERAGE,False
+폴바셋,루이보스 밀크티,HOT,BEVERAGE,False
+폴바셋,핑크 구아바 자몽 에이드,ICE,BEVERAGE,False
+폴바셋,비트 사과 주스,ICE,BEVERAGE,False
+폴바셋,샤인머스캣 케일 주스,ICE,BEVERAGE,False
+폴바셋,VENTI 납작 복숭아 에이드Flat Peach Ade (Venti),,BEVERAGE,False
+폴바셋,VENTI 제주 한라봉 에이드Jeju Hallabong Ade (Venti),,BEVERAGE,False
+폴바셋,납작복숭아 에이드,ICE,BEVERAGE,False
+폴바셋,제주 레몬 에이드,ICE,BEVERAGE,False
+폴바셋,제주 오션 레몬 에이드,ICE,BEVERAGE,False
+폴바셋,제주 선셋 레몬 에이드,ICE,BEVERAGE,False
+폴바셋,제주 한라봉 에이드,ICE,BEVERAGE,False
+폴바셋,아이스 경산대추 생강차,ICE,BEVERAGE,False
+폴바셋,경산대추 생강차,HOT,BEVERAGE,False
+폴바셋,제로칼로리 바나바 레몬 우롱티,ICE,BEVERAGE,False
+폴바셋,아이스 쿨 민트 허브차,ICE,BEVERAGE,False
+폴바셋,쿨 민트 허브차,HOT,BEVERAGE,False
+폴바셋,제주 한라봉 티,,BEVERAGE,False
+폴바셋,아이스 크림슨 펀치 과일차,ICE,BEVERAGE,False
+폴바셋,크림슨 펀치 과일차,HOT,BEVERAGE,False
+폴바셋,아이스 로얄 캐모마일 허브차,ICE,BEVERAGE,False
+폴바셋,로얄 캐모마일 허브차,HOT,BEVERAGE,False
+폴바셋,아이스 샤인 다즐링 홍차,ICE,BEVERAGE,False
+폴바셋,샤인 다즐링 홍차,HOT,BEVERAGE,False
+폴바셋,밀크 초콜릿,HOT,BEVERAGE,False
+폴바셋,아이스 밀크 초콜릿,ICE,BEVERAGE,False
+폴바셋,딸기 바나나 요거트,ICE,BEVERAGE,False

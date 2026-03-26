@@ -1,0 +1,161 @@
+﻿brand,name,temp,category,is_coffee
+하이오커피,골드키위 주스,,NEW,False
+하이오커피,망고주스,,NEW,False
+하이오커피,한라봉주스,,NEW,False
+하이오커피,딸기 주스,,NEW,False
+하이오커피,두바이 쫀득 쿠키,,NEW,False
+하이오커피,두바이 초코 라떼,ICE,NEW,False
+하이오커피,두바이 초코 프라페,ICE,NEW,False
+하이오커피,끼리 딸기 찰떡,,NEW,False
+하이오커피,끼리 치즈 찰떡,,NEW,False
+하이오커피,HOT 슈크림 카페라떼,HOT,NEW,False
+하이오커피,슈크림 카페라떼,ICE,NEW,False
+하이오커피,딸기 밀키 에이드,ICE,NEW,False
+하이오커피,딸기 슈크림 라떼,ICE,NEW,False
+하이오커피,딸기 초코폼 라떼,ICE,NEW,False
+하이오커피,딸기 핑크폼 라떼,ICE,NEW,False
+하이오커피,HOT 유자생강차,HOT,NEW,False
+하이오커피,유자생강차,ICE,NEW,False
+하이오커피,HOT 율무차,HOT,NEW,False
+하이오커피,율무차,ICE,NEW,False
+하이오커피,HOT 쌍화차,HOT,NEW,False
+하이오커피,쌍화차,ICE,NEW,False
+하이오커피,순우유 쿼카롱,,NEW,False
+하이오커피,뽀또치즈 쿼카롱,,NEW,False
+하이오커피,김쿼카 초콜렛 팝콘,,NEW,False
+하이오커피,김쿼카 카라멜 팝콘,,NEW,False
+하이오커피,김쿼카 오리지널 팝콘,,NEW,False
+하이오커피,딸기 티라미수 라떼,ICE,NEW,False
+하이오커피,HOT 말차 티라미수 라떼,HOT,NEW,False
+하이오커피,ICE 말차 티라미수 라떼,ICE,NEW,False
+하이오커피,HOT 티라미수 라떼,HOT,NEW,False
+하이오커피,ICE 티라미수 라떼,ICE,NEW,False
+하이오커피,HOT 딥카페라떼,HOT,COFFEE,True
+하이오커피,ICE 딥카페라떼,ICE,COFFEE,True
+하이오커피,말차 크림 카페 라떼,ICE,COFFEE,True
+하이오커피,ICE 아메리카노,ICE,COFFEE,True
+하이오커피,HOT 아메리카노,HOT,COFFEE,True
+하이오커피,ICE 믹스커피,ICE,COFFEE,True
+하이오커피,HOT 믹스커피,HOT,COFFEE,True
+하이오커피,ICE 카페 라떼,ICE,COFFEE,True
+하이오커피,HOT 카페 라떼,HOT,COFFEE,True
+하이오커피,ICE 카푸치노,ICE,COFFEE,True
+하이오커피,HOT 카푸치노,HOT,COFFEE,True
+하이오커피,ICE 바닐라 라떼,ICE,COFFEE,True
+하이오커피,바닐라 라떼,HOT/ICE,COFFEE,True
+하이오커피,ICE 헤이즐넛 라떼,ICE,COFFEE,True
+하이오커피,HOT 헤이즐넛 라떼,HOT,COFFEE,True
+하이오커피,하이슈페너,ICE,COFFEE,True
+하이오커피,ICE 카라멜 마끼아또,ICE,COFFEE,True
+하이오커피,HOT 카라멜 마끼아또,HOT,COFFEE,True
+하이오커피,ICE 카페모카,ICE,COFFEE,True
+하이오커피,HOT 카페 모카,HOT,COFFEE,True
+하이오커피,ICE 연유라떼,ICE,COFFEE,True
+하이오커피,HOT 연유 라떼,HOT,COFFEE,True
+하이오커피,ICE 콜드브루,ICE,COLD BREW,True
+하이오커피,HOT 콜드브루,HOT,COLD BREW,True
+하이오커피,ICE 디카페인 콜드브루,ICE,COLD BREW,True
+하이오커피,HOT 디카페인 콜드브루,HOT,COLD BREW,True
+하이오커피,콜드브루 라떼,ICE,COLD BREW,True
+하이오커피,콜드브루 바닐라라떼,ICE,COLD BREW,True
+하이오커피,콜드브루 헤이즐넛라떼,ICE,COLD BREW,True
+하이오커피,콜드브루 카라멜라떼,ICE,COLD BREW,True
+하이오커피,콜드브루 연유라떼,ICE,COLD BREW,True
+하이오커피,콜드브루 아인슈페너,ICE,COLD BREW,True
+하이오커피,말차 크림 라떼,ICE,BEVERAGE,False
+하이오커피,ICE 녹차라떼,ICE,BEVERAGE,False
+하이오커피,HOT 녹차라떼,HOT,BEVERAGE,False
+하이오커피,ICE 고구마라떼,ICE,BEVERAGE,False
+하이오커피,HOT 고구마라떼,HOT,BEVERAGE,False
+하이오커피,ICE 초코라떼,ICE,BEVERAGE,False
+하이오커피,HOT 초코라떼,HOT,BEVERAGE,False
+하이오커피,ICE 홍차라떼,ICE,BEVERAGE,False
+하이오커피,HOT 홍차라떼,HOT,BEVERAGE,False
+하이오커피,ICE 민트초코칩라떼,ICE,BEVERAGE,False
+하이오커피,HOT 민트초코칩라떼,HOT,BEVERAGE,False
+하이오커피,ICE 블루베리라떼,ICE,BEVERAGE,False
+하이오커피,HOT 블루베리라떼,HOT,BEVERAGE,False
+하이오커피,딸기 라떼,ICE,BEVERAGE,False
+하이오커피,미숫가루 라떼,ICE,BEVERAGE,False
+하이오커피,코코넛 밀크,ICE,BLENDED,False
+하이오커피,코코넛 망고,ICE,BLENDED,False
+하이오커피,코코넛 커피,ICE,BLENDED,False
+하이오커피,플레인 요거트 스무디,ICE,BLENDED,False
+하이오커피,딸기 요거트 스무디,ICE,BLENDED,False
+하이오커피,망고 요거트 스무디,ICE,BLENDED,False
+하이오커피,블루베리 요거트 스무디,ICE,BLENDED,False
+하이오커피,자바초코칩 프라페,ICE,BLENDED,False
+하이오커피,민트초코칩 프라페,ICE,BLENDED,False
+하이오커피,폭탄초코 프라페,ICE,BLENDED,False
+하이오커피,밀크쉐이크,ICE,BLENDED,False
+하이오커피,쿠키&크림 프라페,ICE,BLENDED,False
+하이오커피,커피밀크쉐이크,ICE,BLENDED,False
+하이오커피,녹차 프라페,ICE,BLENDED,False
+하이오커피,딸기밀크쉐이크,ICE,BLENDED,False
+하이오커피,캔디밀크쉐이크,ICE,BLENDED,False
+하이오커피,초코밀크쉐이크,ICE,BLENDED,False
+하이오커피,청포도 에이드,ICE,ADE&TEA,False
+하이오커피,자몽 에이드,ICE,ADE&TEA,False
+하이오커피,블루레몬 에이드,ICE,ADE&TEA,False
+하이오커피,아이스티 복숭아,ICE,ADE&TEA,False
+하이오커피,자몽티,HOT/ICE,ADE&TEA,False
+하이오커피,레몬티,HOT/ICE,ADE&TEA,False
+하이오커피,유자티,HOT/ICE,ADE&TEA,False
+하이오커피,캐모마일티,HOT,ADE&TEA,False
+하이오커피,ICE 캐모마일티,ICE,ADE&TEA,False
+하이오커피,페퍼민트티,HOT,ADE&TEA,False
+하이오커피,유자레몬에이드,ICE,ADE&TEA,False
+하이오커피,ICE 페퍼민트티,ICE,ADE&TEA,False
+하이오커피,망고에이드,ICE,ADE&TEA,False
+하이오커피,루이보스티,HOT,ADE&TEA,False
+하이오커피,베리에이드,ICE,ADE&TEA,False
+하이오커피,ICE 루이보스티,ICE,ADE&TEA,False
+하이오커피,얼그레이티,HOT,ADE&TEA,False
+하이오커피,ICE 자몽블랙티,ICE,ADE&TEA,False
+하이오커피,HOT 자몽블랙티,HOT,ADE&TEA,False
+하이오커피,ICE 스트로베리 루이보스티,ICE,ADE&TEA,False
+하이오커피,HOT 스트로베리 루이보스티,HOT,ADE&TEA,False
+하이오커피,ICE 유자민트티,ICE,ADE&TEA,False
+하이오커피,HOT 유자민트티,HOT,ADE&TEA,False
+하이오커피,ICE 얼그레이티,ICE,ADE&TEA,False
+하이오커피,식혜,ICE,ADE&TEA,False
+하이오커피,흑당밀크버블린',ICE,BUBBLIN',False
+하이오커피,타로밀크버블린',ICE,BUBBLIN',False
+하이오커피,홍차밀크버블린',ICE,BUBBLIN',False
+하이오커피,바다 소금 라떼,ICE,SIGNATURE,False
+하이오커피,바다 소금 커피,ICE,SIGNATURE,False
+하이오커피,딸기 스노잉,ICE,SIGNATURE,False
+하이오커피,망고 스노잉,ICE,SIGNATURE,False
+하이오커피,블루베리 스노잉,ICE,SIGNATURE,False
+하이오커피,1L 아메리카노,ICE,1L BOTTLE,False
+하이오커피,1L 믹스커피,ICE,1L BOTTLE,False
+하이오커피,1L 카페라떼,ICE,1L BOTTLE,False
+하이오커피,1L 바닐라라떼,ICE,1L BOTTLE,False
+하이오커피,1L 헤이즐넛 라떼,ICE,1L BOTTLE,False
+하이오커피,1L 카라멜 마끼아또,ICE,1L BOTTLE,False
+하이오커피,1L 딸기라떼,ICE,1L BOTTLE,False
+하이오커피,1L 초코라떼,ICE,1L BOTTLE,False
+하이오커피,1L 고구마라떼,ICE,1L BOTTLE,False
+하이오커피,1L 녹차라떼,ICE,1L BOTTLE,False
+하이오커피,1L 홍차라떼,ICE,1L BOTTLE,False
+하이오커피,1L 민트초코칩 라떼,ICE,1L BOTTLE,False
+하이오커피,1L 블루베리 라떼,ICE,1L BOTTLE,False
+하이오커피,1L 미숫가루 라떼,ICE,1L BOTTLE,False
+하이오커피,1L 아이스티 복숭아,ICE,1L BOTTLE,False
+하이오커피,1L 캐모마일티,ICE,1L BOTTLE,False
+하이오커피,1L 페퍼민트티,ICE,1L BOTTLE,False
+하이오커피,1L 루이보스티,ICE,1L BOTTLE,False
+하이오커피,1L 얼그레이티,ICE,1L BOTTLE,False
+하이오커피,1L 식혜,ICE,1L BOTTLE,False
+하이오커피,1L 자몽티,ICE,1L BOTTLE,False
+하이오커피,1L 레몬티,ICE,1L BOTTLE,False
+하이오커피,1L 유자티,ICE,1L BOTTLE,False
+하이오커피,1L 스트로베리 루이보스티,ICE,1L BOTTLE,False
+하이오커피,1L 유자민트티,ICE,1L BOTTLE,False
+하이오커피,1L 자몽블랙티,ICE,1L BOTTLE,False
+하이오커피,1L 청포도에이드,ICE,1L BOTTLE,False
+하이오커피,1L 자몽에이드,ICE,1L BOTTLE,False
+하이오커피,1L 블루레몬에이드,ICE,1L BOTTLE,False
+하이오커피,1L 유자레몬에이드,ICE,1L BOTTLE,False
+하이오커피,1L 망고에이드,ICE,1L BOTTLE,False
+하이오커피,1L 베리에이드,ICE,1L BOTTLE,False

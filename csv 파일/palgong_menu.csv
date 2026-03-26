@@ -1,0 +1,209 @@
+﻿brand,name,temp,category,menu_group,is_coffee
+팔공티,달달말차 팥빙수,,젤라또 라운지,신메뉴,False
+팔공티,맛차말차 젤라또 파르페,,젤라또 라운지,신메뉴,False
+팔공티,상큼딸기 젤라또 파르페,,젤라또 라운지,신메뉴,False
+팔공티,쫀득초코 젤라또 파르페,,젤라또 라운지,신메뉴,False
+팔공티,밀크 팥빙수,,젤라또 라운지,신메뉴,False
+팔공티,스윗밀키! 젤라또 쉐이크,,젤라또 라운지,신메뉴,False
+팔공티,딸기쿠키! 젤라또 쉐이크,,젤라또 라운지,신메뉴,False
+팔공티,초코초코쵸! 젤라또 쉐이크,,젤라또 라운지,신메뉴,False
+팔공티,카라멜 아포가토,,젤라또 라운지,신메뉴,False
+팔공티,말차 젤라또,,젤라또 라운지,신메뉴,False
+팔공티,바닐라 젤라또,,젤라또 라운지,신메뉴,False
+팔공티,딸기 젤라또,,젤라또 라운지,신메뉴,False
+팔공티,초코 젤라또,,젤라또 라운지,신메뉴,False
+팔공티,딸기베리콕! 젤라또 블렌디드,ICE,딸기,신메뉴,False
+팔공티,딸기초콕! 젤라또 블렌디드,ICE,딸기,신메뉴,False
+팔공티,딸기콕! 밀크티,ICE,딸기,신메뉴,False
+팔공티,핑크캐모마일티,HOT,딸기,신메뉴,False
+팔공티,핑크캐모마일티,ICE,딸기,신메뉴,False
+팔공티,말차 젤라또 밀크티,,말차,신메뉴,False
+팔공티,말차초코밀크티,ICE,말차,신메뉴,False
+팔공티,말차요거트블렌디드,,말차,신메뉴,False
+팔공티,말차유자티,ICE,말차,신메뉴,False
+팔공티,말차초코밀크티,HOT,말차,신메뉴,False
+팔공티,말차유자티,HOT,말차,신메뉴,False
+팔공티,망고꾹꾹 라떼,,망고,신메뉴,False
+팔공티,망고요거트블렌디드,,망고,신메뉴,False
+팔공티,제로 복숭아아이스티,,제로/크림/아인슈페너,신메뉴,False
+팔공티,제로 로얄밀크티,ICE,제로/크림/아인슈페너,신메뉴,False
+팔공티,제로 로얄밀크티,HOT,제로/크림/아인슈페너,신메뉴,False
+팔공티,크림라떼,ICE,제로/크림/아인슈페너,신메뉴,False
+팔공티,크림라떼,HOT,제로/크림/아인슈페너,신메뉴,False
+팔공티,아인슈페너,ICE,제로/크림/아인슈페너,신메뉴,False
+팔공티,아인슈페너,HOT,제로/크림/아인슈페너,신메뉴,False
+팔공티,우리 유자차,ICE,우리나라 전통차,신메뉴,False
+팔공티,우리 오미자차,ICE,우리나라 전통차,신메뉴,False
+팔공티,전통 수정과,ICE,우리나라 전통차,신메뉴,False
+팔공티,우리 유자차,HOT,우리나라 전통차,신메뉴,False
+팔공티,우리 오미자차,HOT,우리나라 전통차,신메뉴,False
+팔공티,전통 수정과,HOT,우리나라 전통차,신메뉴,False
+팔공티,유자 에이드,,우리나라 전통차,신메뉴,False
+팔공티,오미자 에이드,,우리나라 전통차,신메뉴,False
+팔공티,팔공믹스 슬러시,,80 MIX,신메뉴,False
+팔공티,팔공믹스 냉커피,ICE,80 MIX,신메뉴,False
+팔공티,팔공믹스 핫커피,HOT,80 MIX,신메뉴,False
+팔공티,달달말차 팥빙수,,GELATO LOUNGE,음료,False
+팔공티,맛차말차 젤라또 파르페,,GELATO LOUNGE,음료,False
+팔공티,상큼딸기 젤라또 파르페,,GELATO LOUNGE,음료,False
+팔공티,쫀득초코 젤라또 파르페,,GELATO LOUNGE,음료,False
+팔공티,밀크 팥빙수,,GELATO LOUNGE,음료,False
+팔공티,스윗밀키! 젤라또 쉐이크,,GELATO LOUNGE,음료,False
+팔공티,딸기쿠키! 젤라또 쉐이크,,GELATO LOUNGE,음료,False
+팔공티,초코초코쵸! 젤라또 쉐이크,,GELATO LOUNGE,음료,False
+팔공티,카라멜 아포가토,,GELATO LOUNGE,음료,False
+팔공티,말차 젤라또,,GELATO LOUNGE,음료,False
+팔공티,바닐라 젤라또,,GELATO LOUNGE,음료,False
+팔공티,딸기 젤라또,,GELATO LOUNGE,음료,False
+팔공티,초코 젤라또,,GELATO LOUNGE,음료,False
+팔공티,말차유자티,ICE,FRESH BREWED FRUIT TEA,음료,False
+팔공티,말차유자티,HOT,FRESH BREWED FRUIT TEA,음료,False
+팔공티,망고사고프룻티,,FRESH BREWED FRUIT TEA,음료,False
+팔공티,핑크리치프룻티,,FRESH BREWED FRUIT TEA,음료,False
+팔공티,자몽블랙프룻티,,FRESH BREWED FRUIT TEA,음료,False
+팔공티,자몽블랙프룻티,HOT,FRESH BREWED FRUIT TEA,음료,False
+팔공티,말차 젤라또 밀크티,,MILK TEA,음료,False
+팔공티,딸기콕! 밀크티,ICE,MILK TEA,음료,False
+팔공티,말차초코밀크티,ICE,MILK TEA,음료,False
+팔공티,말차초코밀크티,HOT,MILK TEA,음료,False
+팔공티,망고사고밀크티,,MILK TEA,음료,False
+팔공티,제로 로얄밀크티,ICE,MILK TEA,음료,False
+팔공티,제로 로얄밀크티,HOT,MILK TEA,음료,False
+팔공티,블랙밀크티,ICE,MILK TEA,음료,False
+팔공티,블랙밀크티,HOT,MILK TEA,음료,False
+팔공티,흑당밀크티,ICE,MILK TEA,음료,False
+팔공티,흑당밀크티,HOT,MILK TEA,음료,False
+팔공티,말차밀크티,ICE,MILK TEA,음료,False
+팔공티,말차밀크티,HOT,MILK TEA,음료,False
+팔공티,타로밀크티,ICE,MILK TEA,음료,False
+팔공티,타로밀크티,HOT,MILK TEA,음료,False
+팔공티,초코밀크티,ICE,MILK TEA,음료,False
+팔공티,말차 젤라또 밀크티,,MILK TEA,음료,False
+팔공티,딸기콕! 밀크티,ICE,MILK TEA,음료,False
+팔공티,말차초코밀크티,ICE,MILK TEA,음료,False
+팔공티,말차초코밀크티,HOT,MILK TEA,음료,False
+팔공티,망고사고밀크티,,MILK TEA,음료,False
+팔공티,제로 로얄밀크티,ICE,MILK TEA,음료,False
+팔공티,제로 로얄밀크티,HOT,MILK TEA,음료,False
+팔공티,블랙밀크티,ICE,MILK TEA,음료,False
+팔공티,블랙밀크티,HOT,MILK TEA,음료,False
+팔공티,흑당밀크티,ICE,MILK TEA,음료,False
+팔공티,흑당밀크티,HOT,MILK TEA,음료,False
+팔공티,말차밀크티,ICE,MILK TEA,음료,False
+팔공티,말차밀크티,HOT,MILK TEA,음료,False
+팔공티,타로밀크티,ICE,MILK TEA,음료,False
+팔공티,타로밀크티,HOT,MILK TEA,음료,False
+팔공티,초코밀크티,ICE,MILK TEA,음료,False
+팔공티,크림라떼,ICE,COFFEE,음료,True
+팔공티,크림라떼,HOT,COFFEE,음료,True
+팔공티,아인슈페너,ICE,COFFEE,음료,True
+팔공티,아인슈페너,HOT,COFFEE,음료,True
+팔공티,팔공믹스 냉커피,ICE,COFFEE,음료,True
+팔공티,팔공믹스 핫커피,HOT,COFFEE,음료,True
+팔공티,아메리카노,ICE,COFFEE,음료,True
+팔공티,아메리카노,HOT,COFFEE,음료,True
+팔공티,카페라떼,ICE,COFFEE,음료,True
+팔공티,카페라떼,HOT,COFFEE,음료,True
+팔공티,바닐라라떼,ICE,COFFEE,음료,True
+팔공티,바닐라라떼,HOT,COFFEE,음료,True
+팔공티,돌체라떼,ICE,COFFEE,음료,True
+팔공티,돌체라떼,HOT,COFFEE,음료,True
+팔공티,카페모카,ICE,COFFEE,음료,True
+팔공티,카페모카,HOT,COFFEE,음료,True
+팔공티,크림라떼,ICE,COFFEE,음료,True
+팔공티,크림라떼,HOT,COFFEE,음료,True
+팔공티,아인슈페너,ICE,COFFEE,음료,True
+팔공티,아인슈페너,HOT,COFFEE,음료,True
+팔공티,팔공믹스 냉커피,ICE,COFFEE,음료,True
+팔공티,팔공믹스 핫커피,HOT,COFFEE,음료,True
+팔공티,아메리카노,ICE,COFFEE,음료,True
+팔공티,아메리카노,HOT,COFFEE,음료,True
+팔공티,카페라떼,ICE,COFFEE,음료,True
+팔공티,카페라떼,HOT,COFFEE,음료,True
+팔공티,바닐라라떼,ICE,COFFEE,음료,True
+팔공티,바닐라라떼,HOT,COFFEE,음료,True
+팔공티,돌체라떼,ICE,COFFEE,음료,True
+팔공티,돌체라떼,HOT,COFFEE,음료,True
+팔공티,카페모카,ICE,COFFEE,음료,True
+팔공티,카페모카,HOT,COFFEE,음료,True
+팔공티,핑크캐모마일티,ICE,BREWED TEA,음료,False
+팔공티,핑크캐모마일티,HOT,BREWED TEA,음료,False
+팔공티,우리 유차자,ICE,BREWED TEA,음료,False
+팔공티,우리 유자차,HOT,BREWED TEA,음료,False
+팔공티,우리 오미자차,ICE,BREWED TEA,음료,False
+팔공티,우리 오미자차,HOT,BREWED TEA,음료,False
+팔공티,전통 수정과,ICE,BREWED TEA,음료,False
+팔공티,전통 수정과,HOT,BREWED TEA,음료,False
+팔공티,블랙티,ICE,BREWED TEA,음료,False
+팔공티,블랙티,HOT,BREWED TEA,음료,False
+팔공티,우롱티,ICE,BREWED TEA,음료,False
+팔공티,우롱티,HOT,BREWED TEA,음료,False
+팔공티,얼그레이티,ICE,BREWED TEA,음료,False
+팔공티,얼그레이티,HOT,BREWED TEA,음료,False
+팔공티,자스민 그린티,ICE,BREWED TEA,음료,False
+팔공티,자스민 그린티,HOT,BREWED TEA,음료,False
+팔공티,핑크캐모마일티,ICE,BREWED TEA,음료,False
+팔공티,핑크캐모마일티,HOT,BREWED TEA,음료,False
+팔공티,우리 유차자,ICE,BREWED TEA,음료,False
+팔공티,우리 유자차,HOT,BREWED TEA,음료,False
+팔공티,우리 오미자차,ICE,BREWED TEA,음료,False
+팔공티,우리 오미자차,HOT,BREWED TEA,음료,False
+팔공티,전통 수정과,ICE,BREWED TEA,음료,False
+팔공티,전통 수정과,HOT,BREWED TEA,음료,False
+팔공티,블랙티,ICE,BREWED TEA,음료,False
+팔공티,블랙티,HOT,BREWED TEA,음료,False
+팔공티,우롱티,ICE,BREWED TEA,음료,False
+팔공티,우롱티,HOT,BREWED TEA,음료,False
+팔공티,얼그레이티,ICE,BREWED TEA,음료,False
+팔공티,얼그레이티,HOT,BREWED TEA,음료,False
+팔공티,자스민 그린티,ICE,BREWED TEA,음료,False
+팔공티,자스민 그린티,HOT,BREWED TEA,음료,False
+팔공티,말차라떼,ICE,LATTE,음료,True
+팔공티,말차라떼,HOT,LATTE,음료,True
+팔공티,망고꾹꾹 라떼,,LATTE,음료,True
+팔공티,딸기꾹꾹 라떼,,LATTE,음료,True
+팔공티,초코 리얼 라떼,ICE,LATTE,음료,True
+팔공티,초코 리얼 라떼,HOT,LATTE,음료,True
+팔공티,딸기초콕! 젤라또 블렌디드,ICE,ICE BLENDED,음료,False
+팔공티,딸기베리콕! 젤라또 블렌디드,ICE,ICE BLENDED,음료,False
+팔공티,말차요거트블렌디드,,ICE BLENDED,음료,False
+팔공티,망고요거트블렌디드,,ICE BLENDED,음료,False
+팔공티,얼그레이 쉐이크,,ICE BLENDED,음료,False
+팔공티,흑당 쉐이크,,ICE BLENDED,음료,False
+팔공티,요거트블렌디드,,ICE BLENDED,음료,False
+팔공티,딸기요거트블렌디드,,ICE BLENDED,음료,False
+팔공티,자몽요거트블렌디드,,ICE BLENDED,음료,False
+팔공티,팔공믹스 슬러시,,ICE BLENDED,음료,False
+팔공티,쿠키앤크림블렌디드,,ICE BLENDED,음료,False
+팔공티,초코블렌디드,,ICE BLENDED,음료,False
+팔공티,타로블렌디드,,ICE BLENDED,음료,False
+팔공티,말차블렌디드,,ICE BLENDED,음료,False
+팔공티,민트블렌디드,,ICE BLENDED,음료,False
+팔공티,샤인머스캣블렌디드,,ICE BLENDED,음료,False
+팔공티,제로 복숭아아이스티,,ICED TEA/ADE/JUICE,음료,False
+팔공티,아이스티(망고추가),,ICED TEA/ADE/JUICE,음료,False
+팔공티,아이스티 (샷추가),,ICED TEA/ADE/JUICE,음료,False
+팔공티,복숭아아이스티,,ICED TEA/ADE/JUICE,음료,False
+팔공티,유자 에이드,,ICED TEA/ADE/JUICE,음료,False
+팔공티,오미자 에이드,,ICED TEA/ADE/JUICE,음료,False
+팔공티,샤인머스캣 에이드,,ICED TEA/ADE/JUICE,음료,False
+팔공티,핑크리치 에이드,,ICED TEA/ADE/JUICE,음료,False
+팔공티,레몬 에이드,,ICED TEA/ADE/JUICE,음료,False
+팔공티,자몽 에이드,,ICED TEA/ADE/JUICE,음료,False
+팔공티,망고 주스,,ICED TEA/ADE/JUICE,음료,False
+팔공티,딸기 주스,,ICED TEA/ADE/JUICE,음료,False
+팔공티,바닐라 젤라또,,TOPPING,음료,False
+팔공티,초코 젤라또,,TOPPING,음료,False
+팔공티,딸기 젤라또,,TOPPING,음료,False
+팔공티,말차 젤라또,,TOPPING,음료,False
+팔공티,타피오카 펄,,TOPPING,음료,False
+팔공티,사고펄,,TOPPING,음료,False
+팔공티,알로에펄,,TOPPING,음료,False
+팔공티,코코넛펄,,TOPPING,음료,False
+팔공티,샷 추가,,TOPPING,음료,False
+팔공티,초코소스,,TOPPING,음료,False
+팔공티,카라멜소스,,TOPPING,음료,False
+팔공티,밀크폼,,TOPPING,음료,False
+팔공티,로투스크럼블,,TOPPING,음료,False
+팔공티,코코볼,,TOPPING,음료,False
+팔공티,후루트링,,TOPPING,음료,False

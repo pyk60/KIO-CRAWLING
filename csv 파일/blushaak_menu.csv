@@ -1,0 +1,116 @@
+﻿brand,name,temp,category,is_coffee
+블루샥,샥 라떼,ICE,Coffee,True
+블루샥,피넛 라떼,ICE,Coffee,True
+블루샥,나이트 아메리카노,HOT/ICE,Coffee,True
+블루샥,선셋 아메리카노,HOT/ICE,Coffee,True
+블루샥,디카페인 아메리카노,HOT/ICE,Coffee,True
+블루샥,카페 라떼,HOT/ICE,Coffee,True
+블루샥,바닐라 빈 라떼,HOT/ICE,Coffee,True
+블루샥,돌체 라떼,HOT/ICE,Coffee,True
+블루샥,카라멜 마끼야또,HOT/ICE,Coffee,True
+블루샥,카페 모카,HOT/ICE,Coffee,True
+블루샥,말차 카페 라떼,HOT/ICE,Coffee,True
+블루샥,콜드 브루 아메리카노,ICE,Coffee,True
+블루샥,콜드 브루 라떼,ICE,Coffee,True
+블루샥,돌체 콜드 브루 라떼,ICE,Coffee,True
+블루샥,에스프레소,,Coffee,True
+블루샥,카페 시트러스,,Coffee,True
+블루샥,카페 피에노,,Coffee,True
+블루샥,시나몬 카페 라떼,HOT/ICE,Coffee,True
+블루샥,바나나 콜드브루 오트라떼,ICE,Coffee,True
+블루샥,아샷추,ICE,Coffee,True
+블루샥,화이트 아메리카노,HOT/ICE,Coffee,True
+블루샥,제로 바닐라 라떼,HOT/ICE,Coffee,True
+블루샥,헤이즐넛 오트라떼,HOT/ICE,Coffee,True
+블루샥,골든유자 뷰티 엘릭서,HOT/ICE,Beverage,False
+블루샥,애플망고 아이스티,ICE,Beverage,False
+블루샥,레몬에이드,ICE,Beverage,False
+블루샥,자몽에이드,ICE,Beverage,False
+블루샥,말차 라떼,HOT/ICE,Beverage,False
+블루샥,설향 딸기 라떼,ICE,Beverage,False
+블루샥,보리 미숫가루,HOT/ICE,Beverage,False
+블루샥,발로나 초콜릿,HOT/ICE,Beverage,False
+블루샥,꿀 자몽 티,HOT/ICE,Beverage,False
+블루샥,레몬 유자 티,HOT/ICE,Beverage,False
+블루샥,로얄 밀크 티,HOT/ICE,Beverage,False
+블루샥,레몬 얼그레이 티,HOT/ICE,Beverage,False
+블루샥,망고 라떼,ICE,Beverage,False
+블루샥,청포도 에이드,ICE,Beverage,False
+블루샥,영암 고구마 라떼,HOT/ICE,Beverage,False
+블루샥,허니 캐모마일,HOT/ICE,Beverage,False
+블루샥,베리 히비스커스,HOT/ICE,Beverage,False
+블루샥,진저 배 티,HOT/ICE,Beverage,False
+블루샥,순수 우유,HOT/ICE,Beverage,False
+블루샥,딸기 아이스 티,ICE,Beverage,False
+블루샥,제로 복숭아 아이스티,ICE,Beverage,False
+블루샥,더블 초코라떼,HOT/ICE,Beverage,False
+블루샥,토피넛 라떼,HOT/ICE,Beverage,False
+블루샥,얼그레이 바닐라 티 라떼,HOT/ICE,Beverage,False
+블루샥,흑당 버블티,ICE,Beverage,False
+블루샥,바나나 버블티,ICE,Beverage,False
+블루샥,말차 버블티,ICE,Beverage,False
+블루샥,더블 초코 버블티,ICE,Beverage,False
+블루샥,홍사과 유자티,HOT/ICE,Beverage,False
+블루샥,딸기 요거트 스무디,ICE,Blended,False
+블루샥,플레인 요거트 스무디,ICE,Blended,False
+블루샥,블루베리 요거트스무디,ICE,Blended,False
+블루샥,망고 바나나 스무디,ICE,Blended,False
+블루샥,말차 프라페,ICE,Blended,False
+블루샥,민트 초코 프라페,ICE,Blended,False
+블루샥,라이스 쉐이크,ICE,Blended,False
+블루샥,밀크 쉐이크,ICE,Blended,False
+블루샥,딸기 쉐이크,ICE,Blended,False
+블루샥,꿀배 스무디,ICE,Blended,False
+블루샥,청포도 스무디,ICE,Blended,False
+블루샥,레드자몽 스무디,ICE,Blended,False
+블루샥,커피 쉐이크,ICE,Blended,False
+블루샥,딸기 유자 스무디,ICE,Blended,False
+블루샥,딸기 바나나 주스,ICE,Blended,False
+블루샥,망고 요거트 스무디,ICE,Blended,False
+블루샥,초코 쉐이크,ICE,Blended,False
+블루샥,초코 바나나 스무디,ICE,Blended,False
+블루샥,컵빙수,ICE,Blended,False
+블루샥,리얼 딸기 주스,ICE,Blended,False
+블루샥,하동 매실 스무디,ICE,Blended,False
+블루샥,제주 레몬 스무디,ICE,Blended,False
+블루샥,리얼 수박 주스,ICE,Blended,False
+블루샥,홍사과 티 스무디,ICE,Blended,False
+블루샥,사과스무디,ICE,Blended,False
+블루샥,1리터보틀 아메리카노,,Bottle,False
+블루샥,1리터보틀 카페라떼,,Bottle,False
+블루샥,1리터보틀 돌체라떼,,Bottle,False
+블루샥,1리터보틀 바닐라빈라떼,,Bottle,False
+블루샥,1리터보틀 카라멜마끼아또,,Bottle,False
+블루샥,1리터보틀 카페모카,,Bottle,False
+블루샥,1리터보틀 시나몬카페라떼,,Bottle,False
+블루샥,1리터보틀 말차카페라떼,,Bottle,False
+블루샥,1리터보틀 아샷추,,Bottle,False
+블루샥,1리터보틀 콜드브루,,Bottle,False
+블루샥,1리터보틀 콜드브루라떼,,Bottle,False
+블루샥,1리터보틀 돌체콜드브루라떼,,Bottle,False
+블루샥,1리터보틀 바나나콜드브루오트라떼,,Bottle,False
+블루샥,1리터보틀 더블초코라떼,,Bottle,False
+블루샥,1리터보틀 애플망고아이스티,,Bottle,False
+블루샥,1리터보틀 꿀자몽티,,Bottle,False
+블루샥,1리터보틀 레몬유자티,,Bottle,False
+블루샥,1리터보틀 자몽에이드,,Bottle,False
+블루샥,1리터보틀 레몬에이드,,Bottle,False
+블루샥,1리터보틀 청포도에이드,,Bottle,False
+블루샥,1리터보틀 진저배티,,Bottle,False
+블루샥,1리터보틀 화이트아메리카노,,Bottle,False
+블루샥,1리터보틀 얼그레이 바닐라 티 라떼,,Bottle,False
+블루샥,1리터보틀 보리미숫가루,,Bottle,False
+블루샥,1리터보틀 로얄밀크티,,Bottle,False
+블루샥,1리터보틀 말차라떼,,Bottle,False
+블루샥,1리터보틀 영암고구마라떼,,Bottle,False
+블루샥,1리터보틀 발로나 초콜릿,,Bottle,False
+블루샥,1리터보틀 레몬얼그레이티,,Bottle,False
+블루샥,1리터보틀 딸기아이스티,,Bottle,False
+블루샥,1리터보틀 토피넛라떼,,Bottle,False
+블루샥,1리터보틀 설향딸기라떼,,Bottle,False
+블루샥,1리터보틀 망고라떼,,Bottle,False
+블루샥,1리터보틀 순수우유,,Bottle,False
+블루샥,1리터보틀 허니캐모마일,,Bottle,False
+블루샥,1리터보틀 페퍼민트,,Bottle,False
+블루샥,1리터보틀 베리히비스커스,,Bottle,False
+블루샥,1리터보틀 제주 호지차,,Bottle,False
